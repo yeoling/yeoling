@@ -9,5 +9,5 @@ Hi there
 💻 Check out my projects below!
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/yeo-ling-249074348/)
-🔗 [Connect with me on GitHub]()
+🔗 [Connect with me on GitHub](https://github.com/yeoling)
 
