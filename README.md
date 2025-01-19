@@ -7,3 +7,5 @@ Hi there
 🌟 Passionate about drawing, designing, and exploring innovative tech solutions. 
 
 💻 Check out my projects below!
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/yeo-ling-249074348/)
