@@ -31,6 +31,16 @@
 
 # 🌐 Connect with Me 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/yeo-ling-249074348/)                                                                                                                                   
-🔗 [GitHub](https://github.com/yeoling)
+<p align="left">
+  <a href="https://www.linkedin.com/in/yeo-ling-249074348/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" height="25">
+  </a>
+  <a href="https://github.com/yeoling" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" height="25">
+  </a>
+  <a href="https://www.instagram.com/yeoling_95?igsh=MW40YXM1emxmMm13&utm_source=qr" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="25" height="25">
+  </a>
+</p>
+
 
