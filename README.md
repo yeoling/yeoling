@@ -14,9 +14,8 @@
   3. [Digital Logic](http://ocw.utm.my/course/view.php?id=39)
   4. [Programming Technique 1](https://eportfolio.utm.my/user/muhammad-rafly/secj1013-pt1)
 
+# 🌐 Connect with Me 
 
-💻 Check out my projects below!
-
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/yeo-ling-249074348/)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/yeo-ling-249074348/)                                                                                                                                   
 🔗 [Connect with me on GitHub](https://github.com/yeoling)
 
