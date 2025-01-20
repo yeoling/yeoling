@@ -16,6 +16,6 @@
 
 # 🌐 Connect with Me 
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/yeo-ling-249074348/)                                                                                                                                   
-🔗 [Connect with me on GitHub](https://github.com/yeoling)
+🔗 [LinkedIn](https://www.linkedin.com/in/yeo-ling-249074348/)                                                                                                                                   
+🔗 [GitHub](https://github.com/yeoling)
 
