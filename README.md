@@ -3,7 +3,7 @@
   I'm Yeo Ling, a Graphics and Multimedia Software student at [UTM](https://www.utm.my/).  
  🌟 Passionate about drawing, designing, and exploring innovative tech solutions. 
 
-# Education
+# 📖 Education
 
   [University of Technology Malaysia (UTM)](https://www.utm.my/)                                                                                                                                                
   Degree: Bachelor’s in Graphics and Multimedia Software                                                                                                                                                          
@@ -14,7 +14,7 @@
   3. [Digital Logic](http://ocw.utm.my/course/view.php?id=39)
   4. [Programming Technique 1](https://eportfolio.utm.my/user/muhammad-rafly/secj1013-pt1)
 
-# Languages and Tools
+# 💻 Languages and Tools
 
 <p align="left">
   <a href="https://cplusplus.com/">
