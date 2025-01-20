@@ -5,9 +5,9 @@
 
 # Education
 
-  [University of Technology Malaysia (UTM)](https://www.utm.my/)
-  Degree: Bachelor’s in Graphics and Multimedia Software
-  Year: 2024-2028
+  [University of Technology Malaysia (UTM)](https://www.utm.my/)                                                                                                                                                
+  Degree: Bachelor’s in Graphics and Multimedia Software                                                                                                                                                          
+  Year: 2024-2028                                                                                                                                                                                                   
   Key Courses:
   1. [Technology and Information Systems](https://eportfolio.utm.my/user/nik-syahdina-zulaikha/tis-technology-and-information-system)
   2. [Discrete Structure](https://eportfolio.utm.my/user/nurulsyamira/s-e-c-i-1-0-1-3-d-s)
