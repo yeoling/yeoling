@@ -19,6 +19,3 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/yeo-ling-249074348/)                                                                                                                                   
 🔗 [GitHub](https://github.com/yeoling)
 
-## 📘 Projects
-- [🔗 Feast Finders App](https://github.com/yourusername/feast-finders)
-- [🔗 PC Assemble Lab](https://github.com/yourusername/pc-assemble)
