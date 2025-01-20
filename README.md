@@ -19,5 +19,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/yeo-ling-249074348/)                                                                                                                                   
 🔗 [GitHub](https://github.com/yeoling)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-blue?logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+## 📂 My Portfolio
+- 📱 [Feast Finders Project](https://github.com/yourusername/feast-finders)
+- 🖥️ [PC Assemble Lab](https://github.com/yourusername/pc-assemble)
+- 🎨 [Design Thinking Prototype](https://github.com/yourusername/design-thinking)
